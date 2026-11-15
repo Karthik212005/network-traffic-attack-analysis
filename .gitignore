@@ -1,0 +1,23 @@
+# Large network traffic datasets
+*.csv
+*.zip
+*.pcap
+*.pcapng
+
+# Python virtual environments
+ml_env/
+venv/
+.venv/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Saved ML models
+*.joblib
+
+# Credentials and system files
+.env
+.env.*
+.DS_Store
+Thumbs.db
